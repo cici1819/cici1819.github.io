@@ -3152,3 +3152,21 @@ input, select, textarea {
 		width: 100%;
 		height: 100%;
 	}
+
+	.major #begin-button {
+		background-color: transparent
+	}
+.info{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.info1{
+	margin-left: -22px;
+}
+
+.icons-grid{
+	display: flex;
+	flex-direction: column;
+	gap:20px;
+}
